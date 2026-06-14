@@ -1,4 +1,4 @@
-import NexVisionArabia from './NexVisionArabia';
+import NexVisionArabia from "./NexVisionArabia";
 
 function App() {
   return <NexVisionArabia />;
